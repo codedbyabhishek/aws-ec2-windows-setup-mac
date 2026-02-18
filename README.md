@@ -1,6 +1,6 @@
 # AWS EC2 Windows Server Setup from MacBook Air (M1)
 
-## 📖 Overview
+## Overview
 
 This project documents the step-by-step process of launching and managing a Windows Server instance on AWS EC2 and accessing it from a MacBook Air M1 using Remote Desktop.
 
@@ -14,7 +14,7 @@ The goal was to gain hands-on experience with:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 MacBook Air (M1)
         ↓
@@ -50,7 +50,7 @@ AWS EC2 Windows Server Instance
 
 ---
 
-## 🎯 Key Learnings
+## Key Learnings
 
 - Practical AWS EC2 provisioning
 - Cloud networking fundamentals
